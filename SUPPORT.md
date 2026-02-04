@@ -1,3 +1,3 @@
 ### How to reach out
 
-Email us at [support@edgee.cloud](mailto:support@edgee.cloud) or join us [on Discord](https://www.edgee.cloud/discord).
+Email us at [support@edgee.ai](mailto:support@edgee.ai) or join us [on Discord](https://www.edgee.ai/discord).
